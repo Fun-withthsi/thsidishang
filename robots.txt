@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fun-withthsi.github.io/thsidishang/sitemap.xml
